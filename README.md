@@ -1,4 +1,6 @@
-# React Meme Generator Capstone Project
+# React Meme Generator
+
+This react app was built from scratch without any scaffolding code.
 
 Quick start:
 
